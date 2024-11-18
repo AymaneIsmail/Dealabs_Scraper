@@ -1,4 +1,5 @@
-# Initilisation
+# Projet : MSATFA Sofiane; BOUTBBA Abdelhay; ISMAIL Aymane 
+## Initilisation
 
 ```python
 python -m venv .venv
